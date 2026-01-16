@@ -1,0 +1,7 @@
+{
+  "name": "HeartLink: Sweet Care",
+  "description": "A romantic and caring family safety application for real-time location sharing and sweet safety insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
